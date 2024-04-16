@@ -1,0 +1,5 @@
+write a python program to read an image from graphics file
+write a program to convert binary image to indexed image and vice versa
+write a program to convert matrix to grayscale image
+write a program to convert an image to 8 - bit, 16 - bit unsigned integer
+write a program to add noise to image
