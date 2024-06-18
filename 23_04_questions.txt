@@ -1,0 +1,5 @@
+1. Write a program to implement LINEAR SPATIAL FILTERING, spatial coorelation and convolution without using built in function
+2. Write a program to implement average filter, max filter and min filter
+3. Write a program to implement first order and second order derivative in sharpening filters
+4. Write a program to implement sovel method filtering
+5. Write a program to implement gausian filter
